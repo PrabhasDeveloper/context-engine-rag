@@ -41,7 +41,7 @@ context-engine-rag/
 
 * [x] PDF Ingestion
 * [x] Fixed Size Chunking
-* [ ] Recursive Chunking
+* [x] Recursive Chunking
 * [ ] Token-Based Chunking
 * [ ] Semantic Chunking
 * [ ] Structure-Based Chunking
